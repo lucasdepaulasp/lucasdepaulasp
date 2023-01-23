@@ -1,4 +1,3 @@
-## Olá, mundo.
 ### Bem vindo ao meu perfil GitHub 👋
 
 <div>
